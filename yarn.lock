@@ -5424,10 +5424,10 @@ flat-cache@^1.2.1:
     rimraf "~2.6.2"
     write "^0.2.1"
 
-flatpickr@^4.5.2:
-  version "4.5.2"
-  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.5.2.tgz#47c8ad472a096e5fb7e74b809b0703535383f20d"
-  integrity sha512-jDy4QYGpmiy7+Qk8QvKJ4spjDdxcx9cxMydmq1x427HkKWBw0qizLYeYM2F6tMcvvqGjU5VpJS55j4LnsaBblA==
+flatpickr@^4.5.3:
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.5.3.tgz#4325522ce34ce0931ded5c92edf96a7e4ff5c7e0"
+  integrity sha512-lKoQlyDl3y/4/v68j6sRhHPyMo+kakROF/UB/FV3ckKF9HYECg+b7PggggKfKdX9y1cJFSxCNsTG/Sm9COxJbg==
 
 follow-redirects@^1.0.0:
   version "1.5.10"
